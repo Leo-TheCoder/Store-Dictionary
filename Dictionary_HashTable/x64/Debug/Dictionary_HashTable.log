@@ -1,0 +1,5 @@
+﻿  main.cpp
+F:\Cấu Trúc Dữ Liệu Giải Thuật HK3-1920\DoAn\18120192\Dictionary_HashTable\main.cpp(19,25): warning C4267:  'initializing': conversion from 'size_t' to 'int', possible loss of data
+F:\Cấu Trúc Dữ Liệu Giải Thuật HK3-1920\DoAn\18120192\Dictionary_HashTable\main.cpp(27,36): warning C4244:  '+=': conversion from 'double' to 'unsigned long', possible loss of data
+F:\Cấu Trúc Dữ Liệu Giải Thuật HK3-1920\DoAn\18120192\Dictionary_HashTable\main.cpp(103,6): warning C4101:  'i': unreferenced local variable
+  Dictionary_HashTable.vcxproj -> F:\Cấu Trúc Dữ Liệu Giải Thuật HK3-1920\DoAn\18120192\x64\Debug\Dictionary_HashTable.exe

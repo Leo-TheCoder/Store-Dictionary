@@ -1,0 +1,4 @@
+﻿  Source.cpp
+F:\Cấu Trúc Dữ Liệu Giải Thuật HK3-1920\DoAn\18120192\Dictionary_Array\Source.cpp(138,28): warning C4267:  'return': conversion from 'size_t' to 'int', possible loss of data
+F:\Cấu Trúc Dữ Liệu Giải Thuật HK3-1920\DoAn\18120192\Dictionary_Array\Source.cpp(337,48): warning C4267:  'argument': conversion from 'size_t' to 'int', possible loss of data
+  Dictionary_Array.vcxproj -> F:\Cấu Trúc Dữ Liệu Giải Thuật HK3-1920\DoAn\18120192\x64\Debug\Dictionary_Array.exe
